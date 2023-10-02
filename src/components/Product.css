@@ -1,0 +1,15 @@
+
+.product-card-div .card{
+  height: 550px;
+  width: 98%;
+  background-color: rgb(232, 226, 226);
+ 
+}
+
+.product-card-div .card-img-top{
+  height: 300px;
+} 
+
+.product-card-div .card-title{
+  height: 100px;
+}

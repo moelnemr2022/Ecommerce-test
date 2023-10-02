@@ -1,0 +1,10 @@
+.btn-cat{
+  color: black;
+  background-color: gray;
+}
+
+.focus:focus{
+color: white;
+background-color:blue ;
+
+}
