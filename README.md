@@ -1,8 +1,22 @@
-# React + Vite
+# React Shopping Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a sample React-based e-commerce website that allows users to browse products, view product details, add products to the cart, and check out. It includes features like category filtering and a responsive design.
 
-Currently, two official plugins are available:
+![first](./PPP.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies Used
+
+- React
+- React Router for navigation
+- Bootstrap for styling
+- Bootstrap Icons for icons
+
+## Features
+
+- Browse a list of products.
+- Filter products by category.
+- View product details.
+- Add and remove products from the shopping cart.
+- Responsive design for mobile and desktop.
+
